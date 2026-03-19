@@ -15,7 +15,7 @@ const Section1 = () => {
         </button>
         </div>
     <figure>
-        <img  src='../public/section1img.png' alt="Recipe Image" />
+        <img  src='section1img.png' alt="Recipe Image" />
     </figure>
   </section>
   )
